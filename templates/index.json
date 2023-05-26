@@ -169,6 +169,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "<section class=\"image-banner\">\n  <img src=\"{{ section.settings.image | image_url }}\" alt=\"Image Banner\">\n<\/section>",
+        "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
