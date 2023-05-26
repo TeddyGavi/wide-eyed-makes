@@ -168,7 +168,7 @@
     "5e462136-1033-4355-b8d8-b67fd6298784": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"custom-image-banner\">\n{{ section.settings.image | image_url: width: 3840 | image_tag: loading: 'lazy', width: section.settings.image.width}}\n<\/div>",
+        "custom_liquid": "<section class=\"image-banner\">\n  <img src=\"{{ section.settings.image | image_url }}\" alt=\"Image Banner\">\n<\/section>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
