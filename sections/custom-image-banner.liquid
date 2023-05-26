@@ -20,19 +20,23 @@
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="section-{{ section.id }}-padding">
 
-    <img src="{{ section.settings.image | image_url }}" width="3840" height="auto" alt="Image Banner">
+    <img
+      src="{{ section.settings.image | image_url }}"
+      width="3840"
+      height="auto"
+      alt="Image Banner">
   </div>
 </div>
 
 {% schema %}
   {
-    "name": "t:sections.custom-liquid.name",
+    "name": "t:sections.custom-image-banner.name",
     "tag": "section",
     "class": "section",
     "settings": [
       {
         "type": "liquid",
-        "id": "custom_liquid",
+        "id": "custom_image_banner",
         "label": "t:sections.custom-liquid.settings.custom_liquid.label",
         "info": "t:sections.custom-liquid.settings.custom_liquid.info"
       },
