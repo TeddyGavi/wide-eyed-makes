@@ -1,5 +1,79 @@
 {
   "sections": {
+    "6f749b89-4ff7-486d-95b5-7aa6f3e265e3": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dressed_up_vest.jpg",
+            "heading": "<strong>Sight Vest<\/strong>",
+            "heading_size": "h2",
+            "subheading": "See Different",
+            "button_label": "See the Vest",
+            "link": "shopify:\/\/products\/sight-vest",
+            "button_style_secondary": true,
+            "box_align": "top-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cell_phone_sling_utility_pocket_6dbbd825-69e0-48b6-96f4-6b3448209146.jpg",
+            "heading": "<strong>Utility Pocket<\/strong>",
+            "heading_size": "h2",
+            "subheading": "Redefine your Pocket",
+            "button_label": "See the Sling",
+            "link": "shopify:\/\/products\/utility-pocket",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "c02e4efe-146f-4dd1-b5f6-f9165abd0711": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEW_StoryHighlights_Flower.jpg",
+            "heading": "<strong>Explore<\/strong>",
+            "heading_size": "h2",
+            "subheading": "See the Rest",
+            "button_label": "All Products",
+            "link": "shopify:\/\/products\/utility-pocket",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-0",
+        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-1",
+        "c02e4efe-146f-4dd1-b5f6-f9165abd0711"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -30,25 +104,6 @@
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 52
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "top-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "efafb6ab-92b6-4d22-97b5-c0c185b60c84": {
@@ -91,66 +146,30 @@
         "padding_bottom": 56
       }
     },
-    "6f749b89-4ff7-486d-95b5-7aa6f3e265e3": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dressed_up_vest.jpg",
-            "heading": "<strong>Sight Vest<\/strong>",
-            "heading_size": "h2",
-            "subheading": "See Different",
-            "button_label": "See the Vest",
-            "link": "shopify:\/\/products\/sight-vest",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cell_phone_sling_utility_pocket_6dbbd825-69e0-48b6-96f4-6b3448209146.jpg",
-            "heading": "<strong>Utility Pocket<\/strong>",
-            "heading_size": "h2",
-            "subheading": "Redefine your Pocket",
-            "button_label": "See the Sling",
-            "link": "shopify:\/\/products\/utility-pocket",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-0",
-        "template--15992228905157__6f749b89-4ff7-486d-95b5-7aa6f3e265e3-16848698878f05c747-1"
+    "image_banner": {
+      "type": "image-banner",
+      "custom_css": [
+
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
         "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     }
   },
   "order": [
+    "6f749b89-4ff7-486d-95b5-7aa6f3e265e3",
     "rich_text",
-    "image_banner",
     "efafb6ab-92b6-4d22-97b5-c0c185b60c84",
-    "6f749b89-4ff7-486d-95b5-7aa6f3e265e3"
+    "image_banner"
   ]
 }
