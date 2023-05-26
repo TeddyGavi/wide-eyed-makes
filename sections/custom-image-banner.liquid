@@ -30,16 +30,10 @@
 
 {% schema %}
   {
-    "name": "t:sections.custom-image-banner.name",
+    "name": "custom-image-banner",
     "tag": "section",
     "class": "section",
     "settings": [
-      {
-        "type": "liquid",
-        "id": "custom_image_banner",
-        "label": "t:sections.custom-liquid.settings.custom_liquid.label",
-        "info": "t:sections.custom-liquid.settings.custom_liquid.info"
-      },
       {
         "type": "image_picker",
         "id": "image",
@@ -75,7 +69,8 @@
       {
         "type": "header",
         "content": "t:sections.all.padding.section_padding_heading"
-      }, {
+      },
+      {
         "type": "range",
         "id": "padding_top",
         "min": 0,
