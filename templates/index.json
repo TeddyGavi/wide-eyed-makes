@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -79,7 +79,7 @@
         "template--15992228905157__efafb6ab-92b6-4d22-97b5-c0c185b60c84-16848693302938cd4c-2"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "<strong>Collections<\/strong>",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -98,7 +98,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/dressed_up_vest.jpg",
-            "heading": "Sight Vest",
+            "heading": "<strong>Sight Vest<\/strong>",
             "heading_size": "h2",
             "subheading": "See Different",
             "button_label": "See the Vest",
@@ -116,7 +116,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/cell_phone_sling_utility_pocket_6dbbd825-69e0-48b6-96f4-6b3448209146.jpg",
-            "heading": "Utility Pocket",
+            "heading": "<strong>Utility Pocket<\/strong>",
             "heading_size": "h2",
             "subheading": "Redefine your Pocket",
             "button_label": "See the Sling",
