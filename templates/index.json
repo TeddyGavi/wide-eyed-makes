@@ -167,6 +167,7 @@
     },
     "5e462136-1033-4355-b8d8-b67fd6298784": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<section class=\"image-banner\">\n  <img src=\"{{ section.settings.image | image_url }}\" alt=\"Image Banner\">\n<\/section>",
         "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
