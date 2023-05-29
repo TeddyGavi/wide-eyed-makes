@@ -2,7 +2,6 @@
   "sections": {
     "c8ad51d3-be33-44ce-96e7-8af017f87315": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15992243486917__c8ad51d3-be33-44ce-96e7-8af017f87315-168487321731281ff3-0": {
           "type": "heading",
@@ -39,9 +38,9 @@
         "template--15992243486917__c8ad51d3-be33-44ce-96e7-8af017f87315-168487321731281ff3-2"
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/pockets_on_arm.jpg",
+        "image": "shopify:\/\/shop_images\/WEW_StickerOptions_3x3in.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
