@@ -22,20 +22,19 @@
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="section-{{ section.id }}-padding">
 
-    {% comment %} <img
+    <img
     class="banner-contain"
-    src="{{ section.settings.image | image_url }}"
-    width="3840"
-    height="auto"
-    alt="Image Banner"> {% endcomment %}
-    {{
-       section.settings.image
-     | image_url: width: 3840
-     | image_tag:
-     loading: 'lazy',
-     width: "3840"
-     class: "banner-contain" }}
-  </div>
+      src="{{ section.settings.image | image_url }}"
+      width="3840"
+      height="auto"
+      alt="Image Banner">
+  {% comment %} {{
+  section.settings.image
+  | image_url: width: 3840
+  | image_tag:
+  loading: 'lazy',
+  width: "3840"
+  class: "banner-contain" }} {% endcomment %}</div>
 </div>
 
 {% schema %}
