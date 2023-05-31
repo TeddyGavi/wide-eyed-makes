@@ -27,19 +27,18 @@
       src="{{ section.settings.image | image_url }}"
       width="3840"
       height="auto"
-      alt="Image Banner">
-  {% comment %} {{
-  section.settings.image
-  | image_url: width: 3840
-  | image_tag:
-  loading: 'lazy',
-  width: "3840"
-  class: "banner-contain" }} {% endcomment %}</div>
+      alt="Image Banner">{% comment %} {{
+        section.settings.image
+        | image_url: width: 3840
+        | image_tag:
+        loading: 'lazy',
+        width: "3840"
+        class: "banner-contain" }} {% endcomment %}</div>
 </div>
 
 {% schema %}
   {
-    "name": "custom image banner",
+    "name": "custom-image-banner",
     "tag": "section",
     "class": "section",
     "settings": [
