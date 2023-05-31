@@ -5,7 +5,9 @@
   .section-{{ section.id }}-padding {
     padding-top: calc({{ section.settings.padding_top }}px * 0.75);
     padding-bottom: calc({{ section.settings.padding_bottom }}px * 0.75);
+    width: 100%;
   }
+ 
 
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
@@ -20,12 +22,12 @@
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="section-{{ section.id }}-padding">
 
-    <img
+    <img class="banner-contain"
       src="{{ section.settings.image | image_url }}"
       width="3840"
       height="auto"
       alt="Image Banner">
-  </div>
+  </div
 </div>
 
 {% schema %}
