@@ -176,6 +176,16 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "5447c61b-07d0-4451-8288-b1867a898136": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -183,6 +193,7 @@
     "rich_text",
     "efafb6ab-92b6-4d22-97b5-c0c185b60c84",
     "image_banner",
-    "5e462136-1033-4355-b8d8-b67fd6298784"
+    "5e462136-1033-4355-b8d8-b67fd6298784",
+    "5447c61b-07d0-4451-8288-b1867a898136"
   ]
 }
