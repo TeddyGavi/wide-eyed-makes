@@ -156,12 +156,22 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "0ec77be1-ba37-473a-9f44-f4de44ac6f20": {
+      "type": "custom-image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WideEyed_cropped.jpg",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "6f749b89-4ff7-486d-95b5-7aa6f3e265e3",
     "rich_text",
     "efafb6ab-92b6-4d22-97b5-c0c185b60c84",
-    "5e462136-1033-4355-b8d8-b67fd6298784"
+    "5e462136-1033-4355-b8d8-b67fd6298784",
+    "0ec77be1-ba37-473a-9f44-f4de44ac6f20"
   ]
 }
