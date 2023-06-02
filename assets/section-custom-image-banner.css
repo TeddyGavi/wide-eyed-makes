@@ -1,3 +1,4 @@
-img .banner-contain {
+.banner-contain {
   object-fit: contain;
+  width: 20%
 }
